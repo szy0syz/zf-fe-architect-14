@@ -192,6 +192,224 @@
 - 性能指标主线程、合成线程、GPU线程和IO线程分析
 - 各种类型性能指标的详情面板
 
+## 实现immer不可变数据
+
+- 共享可变状态
+- 不可变数据的解决方案实现immer
+- 实现produce
+- 实现useImmerState
+
+## 实现css-loader
+
+- css-loader实战实现css-loader
+- 支持@import功能实现style-loader
+- PostCSS抽象语法树
+
+## 实现UMI3.0
+
+- 约定式路由实战源码调试UMI3.0
+- 实现UMI3的运行时系统实现UMI3的插件系统 实现编译时插件
+- 实时目录生成功能实现服务启动
+- 实现运行时插件
+
+## 实现webpack5中的模块联邦
+
+- Module Federation工作原理Module Federation实战
+- 通过shared处理公共依赖处理双向依赖
+- 支持多个remote
+- 实现Module Federation
+
+## 实现React性能优化
+
+- 实现编译阶段的优化
+- 实现路由切换优化
+- 实现更新阶段优化immutable.js
+- 时间分片和虚拟列表渲染大数据量
+- React性能分析工具
+
+## 实现JSX转换模块
+
+- AST抽象语法树
+- babel工作流
+- 实现旧版JSX转换
+- 实现新版JSX转换
+- 实现属性的转换
+
+## 实现实用 的ReactHooks
+
+- 实现useRequest
+- 实现分页请求
+- 实现useDrag实现拖拽
+- 实现useForm实现表单自动托管
+- useAnimation实现自定义动画
+
+## 实现@vue/cli脚手架4.0
+
+- @vue/cli4.0源码调试
+- 实现参数解析
+- 实现脚手架的插件系统
+- 实现create命令
+- 实现@vue/cli-service插件
+
+## 实现create-react-app
+
+- create-react-app源码调试
+- 实现init方法
+- 实现createApp方法
+- 实现run方法
+
+## 实现react-scripts
+
+- react-scripts源码调试
+- 实现build命令
+- 实现start方法
+
+## 实现rollup和tree-shaking
+
+- rollup项目实战
+- AST和作用域分析
+- 实现rollup
+- 实现tree-shaking
+- 实现变量重命名
+
+## 实现px2rem-loader
+
+- 移动端适配实践方案
+- CSS抽象语法树
+- px2rem-loader实战
+- 如何编写自定义loader
+- 实现实现px2rem-loader
+
+## 实现React的keepalive组件
+
+- 基于fiber
+- 实现React缓存组件
+- 支持保持滚动状态
+- 支持缓存生命周期管理
+- 使用LRU管理缓存
+
+## 前端人的健康之道
+
+- 颈腰椎病痛的原理及对策
+-肩周炎和鼠标手的原理和对策
+- 干眼症的分级症状和对策
+- 跑步之道
+  - 科学跑姿
+  - 跑前热身
+  - 跑后拉伸
+
+## V8 内存管理
+
+- JavaScript 中的垃圾收集
+- JavaScript 中的内存管理
+- V8 垃圾回收机制分类
+- 引用计数、标记清除、标记整理和增量标记
+
+## 前端编译原理
+
+- 编译器工作流程
+- 有限状态机
+- 语法分析
+- 递归下降算法
+- 上下文无关文法
+- 语法分析器
+- 遍历语法树
+- 语法树转换器
+- 代码生成器
+- 实现babel和babel插件
+- 从零实现JSX到JS的babel转换插件
+
+## sourcemap
+
+- sourcemap的实现原理,手写实现算法
+- webpack中的source-map详细配置和最佳实践
+- 生产环境里无source-map如何线上调试
+- source-map-loader详解
+
+## 前端二进制应用实战
+
+- 计算机原码、反码和补码的原理
+- 前端浮点数精度问题和超大数求和原理
+- 前端中的FormData、Blob、File、ArrayBuffer、TypedArray、DataView、DataURL、ObjectURL、Text
+- 前端图片裁剪和上传预览
+- 纯前端实现音频的合并剪辑处理
+
+## 手写Nest.js版的IOC容器
+
+- 控制反转和依赖注入
+- 实现服务的注册
+- 实现值的获取
+- 实现注入和获取
+
+## Typescript
+
+- 开发环境
+- TypeScript 安装和编译 数据类型
+- 函数
+- 类
+- 接口
+- 泛型
+- 结构类型系统
+- 类型变换
+- 模块 VS 命名空间
+- 类型声明
+- 声明文件 Typescript+React 集成开发 Typescript+Vue 集成开发 Typescript 工程化
+
+## PWA
+
+- manifest.json 配置
+- service worker 生命周期
+- fetch
+- 请求拦截
+- cache api 以及缓存策略
+- Notification
+- API
+- workbox 应用
+- Vue 中应用 PWA
+
+## 从零实现 vue-cli
+
+- 脚手架项目创建
+- 解析命令行参数
+- create 命令实现
+- config 命令实现
+- 项目发布和布署
+
+## 前端监控和埋点系统
+
+- 前端监控目标
+- 前端埋点方案
+- 监控 JS、Promise、资源加载错误
+- 接口异常采集
+- 白屏和加载时间
+- 性能指标和卡顿
+- PV 和用户停留时间 可视化报表查询
+- 前端监控项目实战
+
+## serverless 云开发
+
+- serverless framework Serverless Components 云函数 SCF 组件
+- API 网关组件 布署静态网站
+- 布署 express 项目
+- 布署 express+layer 项目 部署 Vue+Express 全栈应用
+
+## 微前端实战与原理
+
+- 微前端工程化
+- 同时支持 angular、vue、react 的微前端框架实战
+- single-spa和qiankun实战
+- 从零编写一个微前端框架
+  - 应用状态管理
+  - 应用的加载管理
+  - 路由管理
+
+## GraphQL
+
+- GraphQL 概念
+- 使用 GraphQL 查询和变更数据
+- 后端搭建 GraphQL 服务器
+- ReactHooks 和 GraphQL 项目实战
+
 ## Vue3.0
 
 - 手写 Vue3.0 模板编译原理
