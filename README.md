@@ -410,6 +410,120 @@
 - 后端搭建 GraphQL 服务器
 - ReactHooks 和 GraphQL 项目实战
 
+## GraphQL+Nest.js 微服务开发
+
+- TypeScript+Nest.js 项目构建
+- Nest.js 模块定义
+- GraphQL 的服务器搭建与查询操作
+- Nest 实现后端微服务
+
+## flutter
+
+- dart 语法
+- flutter 环境配置
+- 常用组件
+- 布局
+- 导航和动画
+- flutter 版珠峰课堂项目实战
+
+## electron
+
+- 配置 electron 环境 主进程和渲染进程
+- 进程间通信
+- 文件对话框操作 消息通知和快捷键
+- electron 版珠峰课堂项目实战
+
+## uni-app
+
+- 调试
+- 使用 hbuilder
+- flex 布局
+- 多端发布
+- 路由和动画
+- 微信分享
+- uni-app版珠峰课堂项目实战
+
+## ReactNative
+
+- UIExplorer 项目
+- css 盒子模型和样式
+- css 元素浮动
+- flexbox 布局
+- ReactNative长度单位
+- RN 事件
+- React 动画原理
+- 实现一个 Navigator
+- App 架构之目录结构、路由和组件
+- App 架构之网络和 Container
+- App 架构之命名空间
+- ReactNative 第三方插件
+- 珠峰课堂项目实战
+
+## 阿里企业级开发框架 egg.js
+
+- 项目架构
+- 配置路由
+- 静态文件中间件
+- 模版引擎
+- 远程接口服务
+- 计划任务
+- 集成 MYSQL
+- Restful 接口
+- Sequelize 持久化工具
+- 国际化
+- 扩展工具方法
+- 中间件
+- 运行环境
+- 单元测试
+- 服务器部署和运维
+- 手写自己的 Egg.js 框架，包括 egg-core、egg-init、egg-cluster
+- 自定义插件和框架
+- 手写 egg-socket.io 插件
+
+## 网络安全
+
+- Web 漏洞的分析与防御
+- XSS(跨站脚本攻击)
+- CSRF(跨站请求伪造)
+
+## 前端性能优化
+
+- webpack 优化方案
+- 浏览器缓存原理和最佳设置策略
+- CDN 缓存优化
+- EventLoop 异步更新
+- 避免回流和重绘
+- 节流与防抖
+- 通过 Performance 监控性能
+
+## 计算机网络
+
+- OSI 七层模型
+- TCP/IP 参考模型
+- 物理层
+- 数据链路层
+  - 以太网
+  - 总线型拓扑
+  - 冲突检测
+  - MAC 地址
+  - 以太网帧
+  - ARP 协议
+- 互联网层(网络层)
+  - IP 协议
+  - 选址
+  - 子网掩码和子网划分
+- 传输层
+  -TCP 数据包
+  -TCP 序列号
+  - 滑动窗口的拥塞检测
+  - 三次握手和四次挥手
+  - UDP 协议
+- 应用层
+  - DNS 协议
+  - HTTP 协议
+  - HTTPS 协议
+
+
 ## Vue3.0
 
 - 手写 Vue3.0 模板编译原理
